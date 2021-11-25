@@ -1,0 +1,24 @@
+.form-container
+{
+    width: 50%;
+    height: auto;
+    background-color:rgb(136, 179, 182);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-label
+{
+    white-space: nowrap;
+    color: white;
+}
+.form-check-label
+{
+    color: white;
+}
+.date
+{
+    color: white;
+    text-transform: capitalize;
+}
